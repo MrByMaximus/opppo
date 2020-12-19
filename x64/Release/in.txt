@@ -1,0 +1,5 @@
+ball 10 15.1 Петр
+ball 12 13.1 Алексей 12
+ball 14 11.1 Петр
+parallelepiped [1,2,3] 15.5 Петр
+parallelepiped [1,4,2] 11.5 Алексей
