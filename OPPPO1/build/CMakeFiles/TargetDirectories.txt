@@ -1,0 +1,3 @@
+C:/Users/Maximus/source/repos/OPPPO/OPPPO1/build/CMakeFiles/OPPPO.dir
+C:/Users/Maximus/source/repos/OPPPO/OPPPO1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Maximus/source/repos/OPPPO/OPPPO1/build/CMakeFiles/ZERO_CHECK.dir

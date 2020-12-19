@@ -1,0 +1,10 @@
+Parallelepiped [1,4,9] 10.5 максим
+Parallelepiped [1,2,7] 14.3 Александр
+Parallelepiped [1,2.5,7] 16.5 Толя
+Parallelepiped [1,2,] 13.5 Коля
+Ball 8 8.5 Максим Красный
+Ball 8.6 8.1 Володя
+Ball 7 10.1 "Павел"
+Pyramid 2 5 8.5 Денис
+New_world
+Sort
